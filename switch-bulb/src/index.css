@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.container button{
+  margin-left: 10px;
+}
+.container li{
+  display: inline
+}
+.container{
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+.container div,button{
+  display: inline-block
+}
